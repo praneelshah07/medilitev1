@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900;
+}
+
+h1, h2, h3 {
+  @apply font-semibold text-slate-900;
+}
+
+p {
+  @apply leading-relaxed;
+}
+
+a {
+  @apply text-clarity-blue underline-offset-4 hover:underline;
+}

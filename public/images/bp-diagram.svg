@@ -1,0 +1,11 @@
+<svg width="320" height="200" viewBox="0 0 320 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="200" rx="16" fill="#EEF2FF"/>
+  <rect x="40" y="80" width="240" height="40" rx="20" fill="#FFFFFF" stroke="#1F4F9C" stroke-width="3"/>
+  <path d="M60 100H260" stroke="#1F4F9C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 65L80 45" stroke="#F97316" stroke-width="4"/>
+  <path d="M120 65L120 35" stroke="#F97316" stroke-width="4"/>
+  <path d="M160 65L160 30" stroke="#F97316" stroke-width="4"/>
+  <path d="M200 65L200 35" stroke="#F97316" stroke-width="4"/>
+  <path d="M240 65L240 45" stroke="#F97316" stroke-width="4"/>
+  <text x="160" y="150" text-anchor="middle" fill="#1F4F9C" font-size="14" font-family="Arial">Pressure on vessel walls</text>
+</svg>

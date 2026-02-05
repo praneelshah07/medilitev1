@@ -1,0 +1,1064 @@
+[
+  {
+    "slug": "common-cough",
+    "title": "Common Cough",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "A cough is a reflex that helps clear your throat and airways.",
+    "eli5Summary": "Your body is like a hallway with a door. A cough is the door slamming to push out dust.",
+    "whatsHappening": [
+      "Nerves in your throat or airways sense irritation.",
+      "Your body pushes air out quickly to clear the irritation.",
+      "Coughs can come with mucus or be dry."
+    ],
+    "analogy": {
+      "title": "The hallway sweep",
+      "story": "Imagine sweeping a hallway. A cough is a quick sweep to push out something that does not belong."
+    },
+    "peopleOftenNotice": [
+      "A tickle in the throat",
+      "Coughing more at night or after talking",
+      "A dry or wet sound when coughing"
+    ],
+    "generalSelfCare": [
+      "Many people focus on warm drinks and gentle rest for comfort.",
+      "Keeping the air moist can feel soothing.",
+      "Some people keep a short note of triggers to discuss with a clinician."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Airway irritation",
+        "alt": "Simple airway diagram with a tickle icon in the throat",
+        "src": "/images/lungs-airways.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "How coughing works (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/52Xtr8PZ84g",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "CDC: Coughs",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "sore-throat",
+    "title": "Sore Throat (General)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "A sore throat means the tissues in your throat feel irritated or tender.",
+    "eli5Summary": "Your throat is like a soft tunnel. When it is irritated, it can feel scratchy.",
+    "whatsHappening": [
+      "Throat tissue can swell when it is irritated.",
+      "The surface can become dry or sensitive.",
+      "Swallowing can feel uncomfortable because the tissue is tender."
+    ],
+    "analogy": {
+      "title": "Soft tunnel",
+      "story": "Think of your throat as a soft tunnel. If the tunnel lining gets rubbed, it can feel sore."
+    },
+    "peopleOftenNotice": [
+      "Scratchy or dry feeling",
+      "A change in voice",
+      "Discomfort when swallowing"
+    ],
+    "generalSelfCare": [
+      "Some people sip warm liquids for comfort.",
+      "Resting the voice can feel helpful.",
+      "Keeping indoor air less dry can feel soothing."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Throat irritation",
+        "alt": "Simple diagram of a throat with gentle irritation marks",
+        "src": "/images/lungs-airways.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Why throats feel sore (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/4J7nZVtTn3o",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NHS: Sore throat",
+        "url": "https://www.nhs.uk/conditions/sore-throat/"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "runny-nose-congestion",
+    "title": "Runny Nose / Congestion",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "A runny or stuffy nose happens when the nose lining makes extra fluid or swells.",
+    "eli5Summary": "Your nose is like a filter. When it is bothered, it makes extra water to wash things out.",
+    "whatsHappening": [
+      "The nose lining can swell, making airflow feel tight.",
+      "Extra mucus helps trap dust or germs.",
+      "Swelling and mucus together cause stuffiness."
+    ],
+    "analogy": {
+      "title": "The busy filter",
+      "story": "Picture a filter that flushes itself with water. A runny nose is that cleaning rinse."
+    },
+    "peopleOftenNotice": [
+      "Dripping or a stuffy feeling",
+      "Needing to blow the nose often",
+      "A reduced sense of smell"
+    ],
+    "generalSelfCare": [
+      "Many people find gentle steam helpful for comfort.",
+      "Staying hydrated can support overall comfort.",
+      "Some people use a soft tissue to reduce irritation."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Nasal lining swelling",
+        "alt": "Simple nose diagram showing a swollen lining and airflow",
+        "src": "/images/lungs-airways.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "How congestion works (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/wV8zZyWvEAk",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "CDC: Common cold overview",
+        "url": "https://www.cdc.gov/antibiotic-use/colds.html"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "mild-headache",
+    "title": "Mild Headache",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "A mild headache is a common head pain that can feel dull or tight.",
+    "eli5Summary": "Your head is like a drum. If the drum is a bit tense, it can ache.",
+    "whatsHappening": [
+      "Pain signals can come from muscles, nerves, or blood vessels around the head.",
+      "Tension in the neck or scalp can add pressure.",
+      "The brain senses these signals as pain."
+    ],
+    "analogy": {
+      "title": "The tense drum",
+      "story": "A drum sounds different when it is too tight. A mild headache can feel like that tightness."
+    },
+    "peopleOftenNotice": [
+      "A dull ache on both sides of the head",
+      "Tightness around the forehead",
+      "Sensitivity to bright light"
+    ],
+    "generalSelfCare": [
+      "Some people rest in a quiet, dim space for comfort.",
+      "Gentle neck stretching can feel soothing for some people.",
+      "Keeping regular meals and water can help overall comfort."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Head tension zones",
+        "alt": "Simple head outline with tension areas highlighted",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Headache basics (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/1JpL6VjU0T8",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NIH: Headache overview",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/headache"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "nausea",
+    "title": "Nausea (General)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Nausea is the uneasy feeling that you might vomit.",
+    "eli5Summary": "Your stomach is like a washing machine. Nausea feels like it is swirling the wrong way.",
+    "whatsHappening": [
+      "Signals from the stomach, inner ear, or brain can trigger nausea.",
+      "The stomach may slow down its normal movement.",
+      "The body prepares to protect itself by feeling queasy."
+    ],
+    "analogy": {
+      "title": "The spinning washer",
+      "story": "Imagine a washer that spins too fast. Your body notices and feels unsettled."
+    },
+    "peopleOftenNotice": [
+      "An unsettled stomach",
+      "Less interest in food",
+      "Cold sweats or feeling shaky"
+    ],
+    "generalSelfCare": [
+      "Some people prefer small sips of clear liquids.",
+      "Resting upright can feel more comfortable for some people.",
+      "Gentle, plain foods can feel easier for some people."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Stomach signals",
+        "alt": "Simple diagram of stomach with signal lines to the brain",
+        "src": "/images/acid-reflux.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Nausea explained (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/OTp2Z8xpxY0",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "Mayo Clinic: Nausea",
+        "url": "https://www.mayoclinic.org/symptoms/nausea/basics/definition/sym-20050736"
+      }
+    ],
+    "lastReviewed": "2026-02-05",
+    "extraDetail": {
+      "generalSelfCare": "Many people keep a small comfort kit nearby, like water and light snacks, so they can move slowly when the feeling passes."
+    }
+  },
+  {
+    "slug": "hangover",
+    "title": "Hangover",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "A hangover is a group of symptoms that can happen after drinking alcohol.",
+    "eli5Summary": "Your body had to clean up a mess, and now it feels tired and sore.",
+    "whatsHappening": [
+      "Alcohol can irritate the stomach and affect sleep.",
+      "It can cause the body to lose water.",
+      "The body works to break down alcohol, which can leave you feeling worn out."
+    ],
+    "analogy": {
+      "title": "Cleanup crew",
+      "story": "Think of your body as a cleanup crew after a big party. The next day, the crew feels tired."
+    },
+    "peopleOftenNotice": [
+      "Headache or grogginess",
+      "Dry mouth",
+      "Upset stomach"
+    ],
+    "generalSelfCare": [
+      "Many people focus on rest and hydration for comfort.",
+      "Light, bland foods can feel easier for some people.",
+      "Some people prefer quiet, low-light spaces while they recover."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Body cleanup",
+        "alt": "Simple icon of a broom inside a body outline",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Alcohol and the body (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/v6uBQ2g5xYg",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NIAAA: Alcohol's effects",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "heartburn",
+    "title": "Heartburn (General)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Heartburn is a burning feeling in the chest when stomach acid moves upward.",
+    "eli5Summary": "Your stomach is like a bottle with a lid. If the lid loosens, some liquid can splash up.",
+    "whatsHappening": [
+      "A valve between the stomach and food tube can relax.",
+      "Acid can move upward and irritate the food tube.",
+      "That irritation feels like a warm or burning sensation."
+    ],
+    "analogy": {
+      "title": "The loose bottle cap",
+      "story": "Picture a bottle with a loose cap. A small splash can move up and feel uncomfortable."
+    },
+    "peopleOftenNotice": [
+      "Burning in the chest after eating",
+      "Sour taste in the mouth",
+      "More discomfort when lying flat"
+    ],
+    "generalSelfCare": [
+      "Some people find smaller meals feel gentler.",
+      "Sitting upright after meals can feel more comfortable.",
+      "Loose clothing around the waist can reduce pressure."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Acid moving upward",
+        "alt": "Simple diagram of stomach and food tube with arrows upward",
+        "src": "/images/acid-reflux.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Acid reflux explained (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/z7cD4W6Xn6s",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NIDDK: Heartburn",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      }
+    ],
+    "lastReviewed": "2026-02-05",
+    "extraDetail": {
+      "analogy": "If the cap stays loose often, the splash can happen more than once, which helps explain why some people notice repeated episodes."
+    }
+  },
+  {
+    "slug": "diarrhea",
+    "title": "Diarrhea (General)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Diarrhea means loose or watery stools because the gut moves too fast.",
+    "eli5Summary": "Your intestines are like a long hallway. When things move too fast, water does not get absorbed.",
+    "whatsHappening": [
+      "The intestines usually absorb water from food.",
+      "When movement is faster, less water is absorbed.",
+      "Stool becomes loose or watery."
+    ],
+    "analogy": {
+      "title": "The fast conveyor belt",
+      "story": "Imagine a conveyor belt moving too quickly. Items slide by before they can be sorted."
+    },
+    "peopleOftenNotice": [
+      "Frequent trips to the bathroom",
+      "Loose or watery stool",
+      "Mild belly cramps"
+    ],
+    "generalSelfCare": [
+      "Many people focus on steady fluids to stay comfortable.",
+      "Plain foods can feel easier on the stomach.",
+      "Some people rest to let the body settle."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Fast-moving gut",
+        "alt": "Simple diagram of intestines with fast arrows",
+        "src": "/images/acid-reflux.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Digestive basics (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/Oy8mOH2LzK8",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "WHO: Diarrhoea fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "constipation",
+    "title": "Constipation (General)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Constipation means bowel movements are less frequent or harder to pass.",
+    "eli5Summary": "Your intestines are like a slow-moving train. When it slows too much, things back up.",
+    "whatsHappening": [
+      "The large intestine absorbs water from stool.",
+      "When stool stays longer, it becomes drier.",
+      "Dry stool can feel harder to pass."
+    ],
+    "analogy": {
+      "title": "The slow train",
+      "story": "If a train slows on the track, more passengers pile up. Constipation is like that slowdown."
+    },
+    "peopleOftenNotice": [
+      "Hard or lumpy stool",
+      "Straining during bowel movements",
+      "A full or bloated feeling"
+    ],
+    "generalSelfCare": [
+      "Many people focus on fiber-rich foods and steady fluids for comfort.",
+      "Gentle movement can support normal gut rhythm for some people.",
+      "Some people keep a regular routine for bathroom time."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Slow-moving stool",
+        "alt": "Simple intestines diagram with slow arrows",
+        "src": "/images/acid-reflux.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "How digestion slows (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/6N1Yp8fD2eM",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NIDDK: Constipation",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "muscle-soreness-after-exercise",
+    "title": "Muscle Soreness After Exercise",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Muscle soreness after exercise is a normal response to new or hard movement.",
+    "eli5Summary": "Your muscles are like rubber bands. If they stretch in new ways, they feel sore later.",
+    "whatsHappening": [
+      "Small muscle fibers can get tiny stress during exercise.",
+      "The body repairs those fibers, which can feel sore.",
+      "This repair can make muscles stronger over time."
+    ],
+    "analogy": {
+      "title": "The stretched rubber band",
+      "story": "Stretching a rubber band in new ways can make it feel tight. Muscles can feel that way too."
+    },
+    "peopleOftenNotice": [
+      "Tenderness when moving",
+      "Stiffness the next day",
+      "Soreness in the muscles used most"
+    ],
+    "generalSelfCare": [
+      "Some people use gentle movement and rest to stay comfortable.",
+      "Light stretching can feel calming for some people.",
+      "Keeping a steady routine can help the body adapt."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Muscle fiber repair",
+        "alt": "Simple muscle fibers with small repair lines",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Why muscles feel sore (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/2pLT-olgUJs",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "American Council on Exercise: Muscle soreness",
+        "url": "https://www.acefitness.org/education-and-resources/professional/expert-articles/5748/"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "trouble-sleeping-short-term",
+    "title": "Trouble Sleeping (Short-Term)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Short-term sleep trouble means it is hard to fall asleep or stay asleep for a few nights.",
+    "eli5Summary": "Your brain has a night switch. Sometimes the switch gets stuck between on and off.",
+    "whatsHappening": [
+      "Stress or schedule changes can shift your sleep rhythm.",
+      "The brain stays alert when it expects activity.",
+      "Light, noise, or screens can make it harder to feel sleepy."
+    ],
+    "analogy": {
+      "title": "The stuck night switch",
+      "story": "Think of a light switch that flickers. It takes time for it to settle into the off position."
+    },
+    "peopleOftenNotice": [
+      "Long time to fall asleep",
+      "Waking up often",
+      "Feeling tired the next day"
+    ],
+    "generalSelfCare": [
+      "Many people keep a consistent sleep routine for comfort.",
+      "A calm, dark room can feel helpful.",
+      "Some people wind down with quiet activities before bed."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Sleep rhythm",
+        "alt": "Simple moon and clock diagram",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sleep basics (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/6yP8U-1GQn4",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "Sleep Foundation: Sleep hygiene",
+        "url": "https://www.sleepfoundation.org/sleep-hygiene"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "stress-anxiety-feelings",
+    "title": "Stress/Anxiety Feelings (General Education)",
+    "category": "Everyday Symptoms",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Stress or anxiety feelings happen when the body senses pressure or worry.",
+    "eli5Summary": "Your body has an alarm system. Sometimes it rings even when you are safe.",
+    "whatsHappening": [
+      "The brain sends signals that speed up the heart and breathing.",
+      "Muscles can tighten to get ready for action.",
+      "The mind may focus on worries to stay prepared."
+    ],
+    "analogy": {
+      "title": "The sensitive alarm",
+      "story": "A smoke alarm can beep from steam. Stress can be a sensitive alarm too."
+    },
+    "peopleOftenNotice": [
+      "Racing thoughts",
+      "Butterflies in the stomach",
+      "Tight shoulders or jaw"
+    ],
+    "generalSelfCare": [
+      "Some people find slow breathing calming.",
+      "Gentle movement or stretching can feel grounding.",
+      "Jotting down worries can help organize thoughts."
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Body alarm response",
+        "alt": "Simple body outline with lightning bolt symbols",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Stress response explained (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/hnpQrMqDoqE",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "APA: Understanding stress",
+        "url": "https://www.apa.org/topics/stress"
+      }
+    ],
+    "lastReviewed": "2026-02-05",
+    "extraDetail": {
+      "generalSelfCare": "Some people use short breaks during the day to reset, such as a quick walk or a few quiet minutes."
+    }
+  },
+  {
+    "slug": "diagnosed-hypertension",
+    "title": "Hypertension (High Blood Pressure) — Diagnosed",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "High blood pressure means your blood is pushing too hard on your blood vessel walls over time.",
+    "eli5Summary": "Imagine a hose. If the water pushes too hard all day, the hose can wear out faster.",
+    "whatsHappening": [
+      "Your heart pumps blood through tubes called blood vessels.",
+      "If the pressure stays high, the vessel walls get stressed over time.",
+      "Over years, that stress can make the heart and blood vessels work harder."
+    ],
+    "analogy": {
+      "title": "The garden hose analogy",
+      "story": "Blood vessels are like a hose. If the water pressure is too high for too long, the hose can get damaged or stiff. Lower, steady pressure is kinder to the hose."
+    },
+    "peopleOftenNotice": [
+      "Many people feel nothing at first",
+      "Some people notice headaches or feeling off, but this varies"
+    ],
+    "generalSelfCare": [
+      "Some people focus on routines that support heart health, like regular sleep and movement.",
+      "Reducing stress can help some people feel better overall.",
+      "Many people find it helpful to track questions and bring them to appointments."
+    ],
+    "questionsForClinician": [
+      "What is my target blood pressure range?",
+      "How often should I check it, and how should I record it?",
+      "What lifestyle changes matter most for me?",
+      "How will we monitor this over time?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Blood pressure as force on vessel walls",
+        "alt": "Simple diagram showing blood flowing through a tube with pressure arrows on the walls",
+        "src": "/images/bp-diagram.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hypertension explained simply (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/3Qd4h-2k0tY",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "American Heart Association: High Blood Pressure",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure"
+      },
+      {
+        "label": "NHLBI: High Blood Pressure",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "diagnosed-asthma",
+    "title": "Asthma — Diagnosed",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Asthma means the airways can get narrow and sensitive, which can make breathing feel tight.",
+    "eli5Summary": "Your breathing tubes are like soft straws. Asthma makes the straws squeeze smaller sometimes.",
+    "whatsHappening": [
+      "Airways can swell and make extra mucus.",
+      "Muscles around the airways can tighten.",
+      "Together, these changes make air move through a smaller space."
+    ],
+    "analogy": {
+      "title": "The pinched straw",
+      "story": "If you pinch a straw, less air can pass through. Asthma can feel like that pinch."
+    },
+    "peopleOftenNotice": [
+      "Wheezing or whistling sounds",
+      "Tight chest feeling",
+      "Shortness of breath during activity"
+    ],
+    "generalSelfCare": [
+      "Many people track patterns that seem to trigger symptoms.",
+      "Gentle breathing exercises can feel calming.",
+      "Planning activities with rest breaks can feel supportive."
+    ],
+    "questionsForClinician": [
+      "How can I recognize my early warning signs?",
+      "What is my personal asthma action plan?",
+      "How often should my lung function be checked?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Airways narrowing",
+        "alt": "Simple airway diagram comparing open and narrowed tubes",
+        "src": "/images/lungs-airways.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Asthma basics (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/9C7cMSA-jrM",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "CDC: Asthma",
+        "url": "https://www.cdc.gov/asthma/default.htm"
+      }
+    ],
+    "lastReviewed": "2026-02-05",
+    "extraDetail": {
+      "generalSelfCare": "Some people keep notes on air quality or seasonal changes so they can discuss patterns at visits."
+    }
+  },
+  {
+    "slug": "diagnosed-gerd",
+    "title": "GERD — Diagnosed",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "GERD means stomach acid often moves back into the food tube, causing irritation.",
+    "eli5Summary": "Your stomach is a bottle. GERD is when the bottle leaks upward more often.",
+    "whatsHappening": [
+      "The valve between the stomach and food tube relaxes too often.",
+      "Acid rises and irritates the lining.",
+      "Repeated irritation can lead to ongoing discomfort."
+    ],
+    "analogy": {
+      "title": "The leaky bottle",
+      "story": "If a bottle leaks, the liquid touches places it should not. That is how reflux can feel."
+    },
+    "peopleOftenNotice": [
+      "Burning sensation in the chest",
+      "Sour taste or burping",
+      "Symptoms that feel worse after meals"
+    ],
+    "generalSelfCare": [
+      "Some people find smaller meals more comfortable.",
+      "Sitting upright after eating can feel supportive.",
+      "Keeping a simple food and symptom log can be useful for appointments."
+    ],
+    "questionsForClinician": [
+      "How can I track my symptoms effectively?",
+      "What changes help reduce reflux for me?",
+      "How will we monitor my esophagus over time?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Acid reflux path",
+        "alt": "Simple diagram of acid moving upward",
+        "src": "/images/acid-reflux.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "GERD overview (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/8J2H0s6S0I0",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NIDDK: GERD",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "diagnosed-migraine",
+    "title": "Migraine — Diagnosed",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Migraine is a brain condition that can cause strong headaches and sensitivity to light or sound.",
+    "eli5Summary": "Your brain is like a control center. During a migraine, the controls get overwhelmed.",
+    "whatsHappening": [
+      "Brain signaling changes can make nerves more sensitive.",
+      "Blood vessels and nerves around the brain can react.",
+      "This can lead to head pain and sensory sensitivity."
+    ],
+    "analogy": {
+      "title": "The overloaded control room",
+      "story": "Imagine a control room with too many alarms at once. Everything feels loud and bright."
+    },
+    "peopleOftenNotice": [
+      "Throbbing head pain",
+      "Light or sound sensitivity",
+      "Nausea or feeling drained"
+    ],
+    "generalSelfCare": [
+      "Some people rest in a dark, quiet space.",
+      "Keeping a migraine diary can help identify patterns.",
+      "Gentle routines can support steady sleep."
+    ],
+    "questionsForClinician": [
+      "What triggers should I track?",
+      "How can I describe my migraine pattern?",
+      "What is my long-term management plan?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Sensitive brain signals",
+        "alt": "Simple brain diagram with signal lines",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Migraine basics (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/QM5s0xP2YXI",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "American Migraine Foundation",
+        "url": "https://americanmigrainefoundation.org/"
+      }
+    ],
+    "lastReviewed": "2026-02-05",
+    "extraDetail": {
+      "generalSelfCare": "Some people plan quiet recovery time after a migraine and write down what seemed helpful to discuss later."
+    }
+  },
+  {
+    "slug": "diagnosed-type-2-diabetes",
+    "title": "Type 2 Diabetes — Diagnosed (Education Only)",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Type 2 diabetes means the body has trouble using insulin to move sugar from the blood into cells.",
+    "eli5Summary": "Sugar is fuel. Insulin is the key. In type 2 diabetes, the key works poorly.",
+    "whatsHappening": [
+      "Insulin helps move sugar into cells for energy.",
+      "In type 2 diabetes, cells resist insulin's signal.",
+      "Sugar stays in the blood longer than it should."
+    ],
+    "analogy": {
+      "title": "The sticky key",
+      "story": "If a key sticks in a lock, the door does not open smoothly. Insulin can feel like a sticky key."
+    },
+    "peopleOftenNotice": [
+      "Feeling tired more often",
+      "Feeling thirsty",
+      "Needing to urinate more"
+    ],
+    "generalSelfCare": [
+      "Some people focus on steady routines for meals and activity.",
+      "Tracking questions helps make clinic visits more focused.",
+      "Learning about glucose numbers can feel empowering."
+    ],
+    "questionsForClinician": [
+      "What blood sugar targets are right for me?",
+      "How should I monitor my numbers?",
+      "What lifestyle changes make the biggest difference for me?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Sugar and insulin",
+        "alt": "Simple cells and sugar icons with a key",
+        "src": "/images/bp-diagram.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Type 2 diabetes explained (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/wZAjVQWbMlE",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "CDC: Type 2 Diabetes",
+        "url": "https://www.cdc.gov/diabetes/basics/type2.html"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "diagnosed-anemia",
+    "title": "Anemia — Diagnosed (Education Only)",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "Anemia means the blood has fewer red cells or less hemoglobin to carry oxygen.",
+    "eli5Summary": "Red blood cells are like delivery trucks for oxygen. In anemia, there are fewer trucks.",
+    "whatsHappening": [
+      "Red blood cells carry oxygen to the body.",
+      "With fewer cells or lower hemoglobin, oxygen delivery slows.",
+      "This can make the body feel tired or weak."
+    ],
+    "analogy": {
+      "title": "The delivery trucks",
+      "story": "If a town has fewer delivery trucks, packages arrive slowly. Oxygen delivery can feel like that."
+    },
+    "peopleOftenNotice": [
+      "Fatigue or low energy",
+      "Feeling cold",
+      "Pale skin or lips"
+    ],
+    "generalSelfCare": [
+      "Some people track energy levels to share with their clinician.",
+      "Gentle pacing can help conserve energy.",
+      "Learning the cause of anemia helps guide discussions with care teams."
+    ],
+    "questionsForClinician": [
+      "What type of anemia do I have?",
+      "What tests will help us find the cause?",
+      "How will we track my progress?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Oxygen delivery",
+        "alt": "Simple red blood cells carrying oxygen icons",
+        "src": "/images/bp-diagram.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Anemia basics (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/7QzUq0x7IQE",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NHLBI: Anemia",
+        "url": "https://www.nhlbi.nih.gov/health/anemia"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "diagnosed-high-cholesterol",
+    "title": "High Cholesterol — Diagnosed",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "High cholesterol means there is more fat-like material in the blood than usual.",
+    "eli5Summary": "Cholesterol is like grease in plumbing. Too much can build up on the walls.",
+    "whatsHappening": [
+      "Cholesterol travels in the blood to help build cells.",
+      "Extra cholesterol can stick to blood vessel walls.",
+      "Over time, that buildup can narrow the space for blood flow."
+    ],
+    "analogy": {
+      "title": "Grease in pipes",
+      "story": "If grease builds up inside a pipe, less water can pass through. Cholesterol buildup can feel similar."
+    },
+    "peopleOftenNotice": [
+      "Many people feel no symptoms",
+      "Some learn about it from routine tests",
+      "Others notice related health concerns over time"
+    ],
+    "generalSelfCare": [
+      "Some people focus on heart-healthy routines, like movement and balanced meals.",
+      "Tracking lab results can help guide questions for visits.",
+      "Keeping stress lower can support overall heart health."
+    ],
+    "questionsForClinician": [
+      "What type of cholesterol numbers matter most for me?",
+      "How often should I check my levels?",
+      "What lifestyle changes are recommended for my situation?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Cholesterol buildup",
+        "alt": "Simple blood vessel with buildup along the wall",
+        "src": "/images/bp-diagram.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Cholesterol explained (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/0H5B9nS5qS0",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "CDC: Cholesterol",
+        "url": "https://www.cdc.gov/cholesterol/index.htm"
+      }
+    ],
+    "lastReviewed": "2026-02-05"
+  },
+  {
+    "slug": "diagnosed-anxiety-disorder",
+    "title": "Anxiety Disorder — Diagnosed (Education Only)",
+    "category": "Post-Diagnosis Companion",
+    "readingLevel": "simple",
+    "oneMinuteSummary": "An anxiety disorder means worry or fear is frequent and hard to control.",
+    "eli5Summary": "Your body alarm system rings too often, even when things are okay.",
+    "whatsHappening": [
+      "The brain’s alarm system can stay activated.",
+      "Stress hormones can keep the body on alert.",
+      "This can affect sleep, focus, and energy."
+    ],
+    "analogy": {
+      "title": "The overactive alarm",
+      "story": "A car alarm that goes off too easily can feel exhausting. Anxiety can feel like that alarm."
+    },
+    "peopleOftenNotice": [
+      "Worry that feels hard to stop",
+      "Restlessness or tension",
+      "Trouble focusing"
+    ],
+    "generalSelfCare": [
+      "Some people use grounding techniques like slow breathing.",
+      "Keeping routines can feel stabilizing.",
+      "Writing down questions can make appointments easier."
+    ],
+    "questionsForClinician": [
+      "What type of anxiety disorder do I have?",
+      "What treatment options are available?",
+      "How can I track progress over time?"
+    ],
+    "visuals": [
+      {
+        "type": "diagram",
+        "title": "Alarm system",
+        "alt": "Simple brain and alarm icon",
+        "src": "/images/migraine-brain.svg"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Anxiety overview (educational)",
+        "provider": "YouTube",
+        "embedUrl": "https://www.youtube.com/embed/WWloIAQpMcQ",
+        "note": "Educational resource. Not medical advice."
+      }
+    ],
+    "resources": [
+      {
+        "label": "NIMH: Anxiety Disorders",
+        "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders"
+      }
+    ],
+    "lastReviewed": "2026-02-05",
+    "extraDetail": {
+      "generalSelfCare": "Some people find that gentle structure, like a daily plan, reduces the feeling of being overwhelmed."
+    }
+  }
+]
